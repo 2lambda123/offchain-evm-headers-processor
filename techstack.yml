@@ -2,7 +2,7 @@ repo_name: 2lambda123/offchain-evm-headers-processor
 report_id: a2defc6b48d8cc26b7c7465e172ea30d
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-09T06:52:38+00:00'
+timestamp: '2024-02-29T19:16:54+00:00'
 requested_by: 2lambda123
 provider: github
 branch: main
@@ -65,7 +65,7 @@ tools:
   detection_source_url: https://github.com/2lambda123/offchain-evm-headers-processor
   detection_source: Repo Metadata
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 3.0.1
   license: MIT
